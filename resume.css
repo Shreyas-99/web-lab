@@ -1,0 +1,41 @@
+
+    .Rh1 {
+      color: #2c3e50;
+      margin-bottom: 20px;
+      font-size: 2rem;
+      text-align: center;
+    }
+
+    .resume-container {
+      width: 100%;
+      max-width: 900px;
+      background: #fff;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    iframe {
+      width: 100%;
+      height: 80vh;
+      border: none;
+    }
+
+    .download-btn {
+      display: inline-block;
+      margin-top: 25px;
+      padding: 12px 24px;
+      background: #007bff;
+      color: #fff;
+      font-size: 1rem;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.3s;
+      box-shadow: 0 3px 10px rgba(0, 123, 255, 0.2);
+    }
+
+    .download-btn:hover {
+      background: #0056b3;
+      transform: translateY(-2px);
+    }
